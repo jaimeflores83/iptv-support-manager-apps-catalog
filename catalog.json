@@ -27,6 +27,16 @@
       "desc": "",
       "apkUrl": "https://lamtv.tv/lam.apk",
       "deps": []
+    },
+    {
+      "id": "a-thundertv",
+      "name": "THUNDER TV",
+      "version": "",
+      "size": "1",
+      "image": "",
+      "desc": "",
+      "apkUrl": "https://www.mediafire.com/file/c9wa1wn38wm26yy/App.apk/file",
+      "deps": []
     }
   ]
 }
