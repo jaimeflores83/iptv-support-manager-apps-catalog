@@ -1,0 +1,32 @@
+{
+  "settings": {
+    "siteTitle": "Centro de Instalación",
+    "siteSubtitle": "Diagnóstico en vivo desde tu red",
+    "timeoutMs": 6000,
+    "slowMs": 1500,
+    "concurrency": 4
+  },
+  "domains": [],
+  "apps": [
+    {
+      "id": "a-sunset",
+      "name": "Sunset",
+      "version": "",
+      "size": "44",
+      "image": "",
+      "desc": "",
+      "apkUrl": "http://turboxc.com/DESCARGAS/sunset.apk",
+      "deps": []
+    },
+    {
+      "id": "a-lamtv",
+      "name": "LAM TV",
+      "version": "",
+      "size": "18",
+      "image": "",
+      "desc": "",
+      "apkUrl": "https://lamtv.tv/lam.apk",
+      "deps": []
+    }
+  ]
+}
