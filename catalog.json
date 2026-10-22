@@ -1,7 +1,7 @@
 {
   "settings": {
-    "siteTitle": "Centro de Instalación",
-    "siteSubtitle": "Diagnóstico en vivo desde tu red",
+    "siteTitle": "IPTV Apps Manager",
+    "siteSubtitle": "Centro de Instalación y Diagnóstico",
     "timeoutMs": 6000,
     "slowMs": 1500,
     "concurrency": 4
@@ -36,6 +36,36 @@
       "image": "",
       "desc": "",
       "apkUrl": "https://github.com/jaimeflores83/iptv-support-manager-apps-catalog/releases/download/thunder_blackeye/App.apk",
+      "deps": []
+    },
+    {
+      "id": "a-stadiomax",
+      "name": "STADIO MAX",
+      "version": "",
+      "size": "9",
+      "image": "",
+      "desc": "",
+      "apkUrl": "https://github.com/jaimeflores83/iptv-support-manager-apps-catalog/releases/download/thunder_blackeye/App.apk",
+      "deps": []
+    },
+    {
+      "id": "a-poptv",
+      "name": "POP TV",
+      "version": "",
+      "size": "14",
+      "image": "",
+      "desc": "",
+      "apkUrl": "https://cdnplive.com/ap/PopU.apk",
+      "deps": []
+    },
+    {
+      "id": "a-kaelus",
+      "name": "KAELUS PLUS",
+      "version": "",
+      "size": "1",
+      "image": "",
+      "desc": "",
+      "apkUrl": "https://dwkp.webhop.net/centro-instalacion.apk",
       "deps": []
     }
   ]
